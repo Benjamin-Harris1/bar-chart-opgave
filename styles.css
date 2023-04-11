@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.bar {
+  width: 17px;
+  height: auto;
+  background-color: gray;
+  border: solid black;
+  margin: 5px;
+  padding: 5px;
+  display: inline-block;
+}
+
+.container {
+  height: 800px;
+}
